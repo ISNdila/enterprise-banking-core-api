@@ -86,6 +86,6 @@ The backend is now live and listening for secure incoming traffic at: **http://l
 ## 👥 Portfolio Author
 * **Developer:** Your Name
 * **Role:** Backend Software Engineer / Computer Hardware Technician
-* **Connect:** Your LinkedIn Profile | Your Portfolio Webpage
+* **Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isndila)
 ```
 ---
